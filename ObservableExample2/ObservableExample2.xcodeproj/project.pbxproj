@@ -14,6 +14,7 @@
 		E421F44D23B4933F007FB2D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E421F44C23B4933F007FB2D6 /* Preview Assets.xcassets */; };
 		E421F45023B4933F007FB2D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E421F44E23B4933F007FB2D6 /* LaunchScreen.storyboard */; };
 		E421F45823B49629007FB2D6 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = E421F45723B49629007FB2D6 /* UserSettings.swift */; };
+		E421F47A23B49AB7007FB2D6 /* FancyScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E421F47923B49AB7007FB2D6 /* FancyScoreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E421F44F23B4933F007FB2D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E421F45123B4933F007FB2D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E421F45723B49629007FB2D6 /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
+		E421F47923B49AB7007FB2D6 /* FancyScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyScoreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E421F45123B4933F007FB2D6 /* Info.plist */,
 				E421F44B23B4933F007FB2D6 /* Preview Content */,
 				E421F45723B49629007FB2D6 /* UserSettings.swift */,
+				E421F47923B49AB7007FB2D6 /* FancyScoreView.swift */,
 			);
 			path = ObservableExample2;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				E421F44423B4933C007FB2D6 /* AppDelegate.swift in Sources */,
 				E421F45823B49629007FB2D6 /* UserSettings.swift in Sources */,
+				E421F47A23B49AB7007FB2D6 /* FancyScoreView.swift in Sources */,
 				E421F44623B4933C007FB2D6 /* SceneDelegate.swift in Sources */,
 				E421F44823B4933C007FB2D6 /* ContentView.swift in Sources */,
 			);
